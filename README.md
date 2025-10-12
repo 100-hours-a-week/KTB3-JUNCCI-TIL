@@ -4,6 +4,9 @@
 
 - [X] **25.10.01** - [Spring](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.01%5DSpring.md) - Annotation, Bean, Ioc, DIP, DI
 - [X] **25.10.02** - [Spring](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.01%5DSpring.md) - AOP
-- [ ] **25.10.03** - [Frontend Fundamentals(Review)](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.03%5DFrontend%20Fundamentals(Review).md) 
-- [ ] **25.10.04** - [Frontend Fundamentals(Review)](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.04%5DFrontend%20Fundamentals(Review).md) - 가독성I
+- [X] **25.10.03** - [Frontend Fundamentals(Review)](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.03%5DFrontend%20Fundamentals(Review).md) 
+- [X] **25.10.04** - [Frontend Fundamentals(Review)](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.04%5DFrontend%20Fundamentals(Review).md) - 가독성I
 
+## <mark> [Oct WEEK2] </mark>
+- [X] **25.10.07** - [Frontend Fundamentals(Review)](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.04%5DFrontend%20Fundamentals(Review).md) - 가독성I
+- [X] **25.10.08** - [Frontend Fundamentals(Review)](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.04%5DFrontend%20Fundamentals(Review).md) - 가독성I
