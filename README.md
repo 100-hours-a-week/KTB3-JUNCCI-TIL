@@ -12,3 +12,9 @@
 - [X] **25.10.08** - [Frontend Fundamentals(Review)](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.08%5DFrontend%20Fundamentals(Review).md) - 예측가능성
 - [X] **25.10.10** - [Frontend Fundamentals(Review)](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.10%5DFrontend%20Fundamentals(Review).md) - 응집도
 - [X] **25.10.11** - [Frontend Fundamentals(Review)](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.11%5DFrontend%20Fundamentals(Review).md) - 결합도
+
+
+## <mark> [Oct WEEK2] </mark>
+- [X] **25.10.13** - [Spring](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.11%5DFrontend%20Fundamentals(Review).md) - 결합도
+- [X] **25.10.14** - [Spring](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.11%5DFrontend%20Fundamentals(Review).md) - 결합도
+- [X] **25.10.15** - [Spring](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.11%5DFrontend%20Fundamentals(Review).md) - 결합도
