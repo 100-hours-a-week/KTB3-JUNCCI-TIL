@@ -15,9 +15,9 @@
 
 
 ## <mark> [Oct WEEK3] </mark>
-- [X] **25.10.13** - [Spring](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.11%5DFrontend%20Fundamentals(Review).md) - 결합도
-- [X] **25.10.14** - [Spring](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.11%5DFrontend%20Fundamentals(Review).md) - 결합도
-- [X] **25.10.15** - [Spring](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.11%5DFrontend%20Fundamentals(Review).md) - 결합도
+- [X] **25.10.13** - [Spring](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.13%5DSpring.md) - Bean Lifecycle, Bean Scope 정리
+- [X] **25.10.14** - [Spring](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.14%5DSpring.md) - BeanPostProcessor
+- [X] **25.10.15** - [Spring](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.15%5DSpring.md) - Dynamic Proxy, ProxyFactory
 
 ## <mark> [Oct WEEK4] </mark>
 - [X] **25.10.20** - [DB](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.20%5DDB.md) - 정규화, SQL
