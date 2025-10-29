@@ -14,7 +14,18 @@
 - [X] **25.10.11** - [Frontend Fundamentals(Review)](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.11%5DFrontend%20Fundamentals(Review).md) - 결합도
 
 
-## <mark> [Oct WEEK2] </mark>
+## <mark> [Oct WEEK3] </mark>
 - [X] **25.10.13** - [Spring](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.11%5DFrontend%20Fundamentals(Review).md) - 결합도
 - [X] **25.10.14** - [Spring](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.11%5DFrontend%20Fundamentals(Review).md) - 결합도
 - [X] **25.10.15** - [Spring](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.11%5DFrontend%20Fundamentals(Review).md) - 결합도
+
+## <mark> [Oct WEEK4] </mark>
+- [X] **25.10.20** - [DB](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.20%5DDB.md) - 정규화, SQL
+- [X] **25.10.21** - [DB](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.21%5DDB.md) - ERD, Index
+- [X] **25.10.22** - [DB](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.22%5DDB.md) - Index, Full Text Index, Transaction
+- [X] **25.10.23** - [DB](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.23%5DDB.md) - NoSQL, 데이터베이스 확장
+
+
+## <mark> [Oct WEEK5] </mark>
+- [X] **25.10.27** - [Spring](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.27%5DSPRING.md) - ORM, JPA, DTO, ENTITY
+- [X] **25.10.28** - [Spring](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.28%5DSPRING.md) - Persistence Context
