@@ -29,3 +29,5 @@
 ## <mark> [Oct WEEK5] </mark>
 - [X] **25.10.27** - [Spring](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.27%5DSPRING.md) - ORM, JPA, DTO, ENTITY
 - [X] **25.10.28** - [Spring](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.28%5DSPRING.md) - Persistence Context
+- [X] **25.10.29** - [Spring](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.27%5DSPRING.md) - ORM, JPA, DTO, ENTITY
+- [X] **25.10.30** - [Spring](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Oct/%5B25.10.30%5DSPRING.md) - JPA_Proxy/JPQL/Fetch Join/Spring Data JPA
