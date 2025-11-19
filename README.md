@@ -40,7 +40,7 @@
 - [X] **25.11.06** - [JS](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Nov/%5B25.11.06%5DJS.md) - callBack
 - [X] **25.11.07** - [JS](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Nov/%5B25.11.07%5DJS.md) - Promise
 - [X] **25.11.08** - [JS](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Nov/%5B25.11.08%5DJS.md) - fetch()
-- [X] **25.11.09** - [JS](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Nov/%5B25.11.06%5DJS.md](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Nov/%5B25.11.09%5DJS.md) - hoisting
+- [X] **25.11.09** - [JS](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Nov/%5B25.11.09%5DJS.md) - hoisting
 
 
 ### <mark> [Nov WEEK2] </mark>   
