@@ -54,4 +54,5 @@
 ### <mark> [Nov WEEK2] </mark>   
 - [X] **25.11.17** - [Spring Boot](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Nov/%5B25.11.17%5DSpringBoot.md) - Spring & Spring Boot
 - [X] **25.11.18** - [Spring Boot](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Nov/%5B25.11.18%5DSpringBoot.md) - Spring Security 개념
-- [X] **25.11.17** - [Spring Boot](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Nov/%5B25.11.19%5DSpringBoot.md) - CSRF, JWT
+- [X] **25.11.19** - [Spring Boot](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Nov/%5B25.11.19%5DSpringBoot.md) - CSRF, JWT
+- [X] **25.11.20** - [Spring Boot](https://github.com/100-hours-a-week/KTB3-JUNCCI-TIL/blob/main/Nov/%5B25.11.20%5DSpringBoot.md) - JWT
